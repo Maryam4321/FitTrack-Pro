@@ -41,7 +41,8 @@ mongod
 npm start
 ```
 
-And go to the [browser](http://localhost:3000) to view the application!
+5. Access the Application:
+Open your browser and visit http://localhost:3000 to start tracking your fitness goals.
 
 
 ## Built With
