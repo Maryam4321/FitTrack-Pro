@@ -16,26 +16,26 @@ To run this app on your local machine, make sure you have [MongoDB](https://www.
 
 ### Installing
 
-First, clone this repository to your local machine:
+1. First, clone this repository to your local machine:
 
 ```
 git clone https://github.com/Maryam4321/FitTrack-pro.git
 ```
 
-install the dependencies using:
+2. install the dependencies using:
 
 ```
 npm install
 ```
 
-start MongoDB:
+3. start MongoDB:
 
 ```
 mongod
 ```
 
 
-Then launch the server:
+4. Then launch the server:
 
 ```
 npm start
